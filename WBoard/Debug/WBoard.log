@@ -1,0 +1,6 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019/bin/qmake)
+WBoard.vcxproj : error : ERROR running qmake: "C:/Qt/5.15.2/msvc2019/bin/qmake"  -tp vc -early "CONFIG -= debug release debug_and_release" "CONFIG += debug warn_off"  qtvars.pro
+WBoard.vcxproj : error : qmake: (C:/Qt/5.15.2/msvc2019/bin/qmake)
+WBoard.vcxproj : error : qmake: $PWD=C:\Users\78200\AppData\Local\Temp\{B12702AD-ABFB-343A-A199-8E24837244A3}\qmake\temp
+WBoard.vcxproj : error : qmake: Project ERROR: Unknown module(s) in QT: webenginequick
+WBoard.vcxproj : error : qmake: Error creating .vcxproj file

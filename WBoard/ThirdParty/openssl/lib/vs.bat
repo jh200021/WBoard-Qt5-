@@ -1,0 +1,1 @@
+dir *.* /b> weddnag.txt
